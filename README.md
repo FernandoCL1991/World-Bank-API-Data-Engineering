@@ -49,7 +49,8 @@ The function `top_countries_by_population(num_countries=10)` does the following:
 # Get the top 10 countries by population and display the interactive chart
 top_countries_by_population(25)
 ```
-![image](https://github.com/user-attachments/assets/3e51c9f6-09d9-46c3-887a-e41319a1348a)
+![image](https://github.com/user-attachments/assets/9fab59f8-7c06-41ae-afcc-dcfd16cee2b3)
+
 
 
 ---
