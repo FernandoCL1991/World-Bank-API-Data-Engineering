@@ -47,8 +47,11 @@ The function `top_countries_by_population(num_countries=10)` does the following:
 
 ```python
 # Get the top 10 countries by population and display the interactive chart
-top_countries_by_population(10)
+top_countries_by_population(25)
 ```
+![image](https://github.com/user-attachments/assets/9fab59f8-7c06-41ae-afcc-dcfd16cee2b3)
+
+
 
 ---
 
